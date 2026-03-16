@@ -1,0 +1,41 @@
+order_id,customer_segment,region,order_date,ship_days,order_value,discount_rate,is_returned,payment_method,product_category,city,notes
+1001,SMB,North,2025-01-05,2,129.99,0.05,false,Credit Card,Electronics,Istanbul,priority shipment
+1002,Enterprise,West,2025-01-06,5,980.40,0.10,false,Bank Transfer,Office,Ankara,
+1003,SMB,South,2025-01-06,3,349.00,0.00,false,Credit Card,Home,Izmir,
+1004,Consumer,East,2025-01-07,7,79.50,0.00,true,Cash,Beauty,Adana,late delivery claim
+1005,Consumer,East,2025-01-08,4,56.20,0.00,false,Credit Card,Beauty,Adana,
+1006,SMB,North,2025-01-09,2,410.00,0.15,false,Credit Card,Electronics,Istanbul,
+1007,Enterprise,West,2025-01-10,6,1250.00,0.12,false,Bank Transfer,Office,Bursa,
+1008,Consumer,South,2025-01-10,,35.90,0.00,false,Wallet,Fashion,Izmir,
+1009,SMB,North,2025-01-11,3,499.99,0.08,false,Credit Card,Electronics,Istanbul,gift wrap
+1010,Consumer,West,2025-01-11,5,64.00,0.00,false,Cash,Grocery,Antalya,
+1011,Enterprise,North,2025-01-12,4,2200.00,0.18,false,Bank Transfer,Office,Istanbul,contract renewal
+1012,Consumer,South,2025-01-13,2,42.75,0.00,true,Credit Card,Grocery,Izmir,returned due to defect
+1013,SMB,East,2025-01-13,3,180.40,0.02,false,Wallet,Home,Adana,
+1014,Consumer,West,2025-01-14,5,91.30,0.00,false,Cash,Fashion,Antalya,
+1015,SMB,North,2025-01-15,2,760.00,0.10,false,Credit Card,Electronics,Istanbul,bundle offer
+1016,Enterprise,East,2025-01-15,8,1430.90,0.20,false,Bank Transfer,Office,Gaziantep,
+1017,Consumer,South,2025-01-16,3,88.00,0.00,false,Wallet,Home,Izmir,
+1018,SMB,West,2025-01-16,4,510.55,0.07,false,Credit Card,Electronics,Bursa,
+1019,Consumer,North,2025-01-17,2,37.90,0.00,false,Cash,Grocery,Istanbul,
+1020,Enterprise,West,2025-01-18,6,1645.10,0.15,false,Bank Transfer,Office,Ankara,
+1021,SMB,South,2025-01-18,4,285.00,0.03,false,Credit Card,Home,Izmir,
+1022,Consumer,East,2025-01-19,3,74.25,0.00,false,Wallet,Beauty,Adana,
+1023,SMB,North,2025-01-20,2,920.80,0.11,false,Credit Card,Electronics,Istanbul,
+1024,Consumer,West,2025-01-20,5,58.90,0.00,false,Cash,Fashion,Antalya,
+1025,Enterprise,North,2025-01-21,4,2450.00,0.22,false,Bank Transfer,Office,Istanbul,VIP account
+1026,Consumer,South,2025-01-21,3,49.99,0.00,true,Credit Card,Grocery,Izmir,
+1027,SMB,East,2025-01-22,3,310.75,0.04,false,Wallet,Home,Gaziantep,
+1028,SMB,West,2025-01-22,4,688.30,0.09,false,Credit Card,Electronics,Bursa,
+1029,Consumer,North,2025-01-23,2,31.40,0.00,false,Cash,Grocery,Istanbul,
+1030,Enterprise,East,2025-01-23,7,1320.25,0.17,false,Bank Transfer,Office,Adana,
+1031,Consumer,South,2025-01-24,3,95.10,0.00,false,Wallet,Beauty,Izmir,
+1032,SMB,North,2025-01-24,2,1025.50,0.13,false,Credit Card,Electronics,Istanbul,
+1033,Consumer,West,2025-01-25,5,67.80,0.00,false,Cash,Fashion,Antalya,
+1034,Enterprise,South,2025-01-26,6,1180.45,0.14,false,Bank Transfer,Office,Izmir,
+1035,SMB,North,2025-01-26,3,540.00,0.06,NA,Credit Card,Electronics,Istanbul,
+1036,Consumer,East,2025-01-27,4,84.60,0.00,false,Wallet,Beauty,Gaziantep,
+1037,SMB,West,2025-01-28,3,615.90,0.08,false,Credit Card,Home,Bursa,
+1038,Enterprise,North,2025-01-28,5,1890.75,0.19,false,Bank Transfer,Office,Istanbul,shipment split
+1039,Consumer,South,2025-01-29,2,44.20,0.00,false,Cash,Grocery,Izmir,
+1040,SMB,East,2025-01-30,,395.65,0.05,false,Credit Card,Electronics,Adana,missing ship_days
