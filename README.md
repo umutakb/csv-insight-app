@@ -147,14 +147,7 @@ Demo dosyası:
 
 Bu dosya; sayısal, kategorik, boolean, tarih-benzeri ve eksik değer örnekleri içerir.
 
-## V2 İçin Geliştirme Fikirleri
 
-- Dark mode toggle
-- Correlation heatmap (sayısal kolonlar)
-- Çok büyük dosyalar için Web Worker tabanlı analiz
-- Kolon bazlı özel dönüşümler (trim, cast, fill)
-- Grafikleri PNG/SVG olarak dışa aktarma
-- Çoklu dosya karşılaştırması
 
 ## Lisans
 
