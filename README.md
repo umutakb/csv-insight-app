@@ -93,6 +93,17 @@ npm run lint
 5. Grafik bölümünden dağılım/frekans içgörülerini gör.
 6. Gerekirse analiz çıktısını JSON olarak indir.
 
+## Ekran Görüntüleri
+
+### Genel Bakış
+![Dashboard Overview](assets/screenshots/dashboard-overview.png)
+
+### Kolon Analizi
+![Column Analysis](assets/screenshots/column-analysis.png)
+
+### Grafikler
+![Charts Section](assets/screenshots/charts-section.png)
+
 ## Proje Yapısı
 
 ```text
